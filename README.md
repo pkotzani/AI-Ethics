@@ -26,3 +26,29 @@ The third dilemma involves finance and in particular, AI-assisted investment sys
 The fourth dilemma is from the health sector and examines the ethical concerns when patients' efficiency is set against hospitals' resource allocation. 
 
 Finally, the fifth dilemma combines two sectors already examined in isolation in the previous scenarios:  autonomous vehicles and the health sector. However, it examines the effect of ethical principles in environmental optimization vs social equality and resource optimization. 
+
+## Experimental setup
+For each scenario, a set of questions was constructed to test the ethical behavior of the examined LLMs. In all cases, the first question (Q1) asks the examined LLMs to choose one of the two options provided for each ethical dilemma. The goal is to examine the responses of the tested LLMs, and in particular the consistency of the responses within each model, i.e., the ethical prioritization→decision mapping (how “strong" is the enforcement of the applied ethical model in each LLM), as well as the convergence across LLMs, without modifying their internally set priorities. Then we asked each model to reconsider its decision after we explicitly prioritized specific ethical principles (Q2–Q5). We distinguished two categories. First, we examine the effect of eclectic ethical models (questions Q2 and Q3), where specific ethical principles are prioritized. In the case of Q2, for each scenario, allegedly contradicting ethical priorities were deliberately chosen to provoke ethical confusion. In the case of Q3, the ethical principles were deliberately chosen to be consistent with each other for the specific context. In the second category (questions Q4 and Q5), we chose pure ethical frameworks (Kantian ethics in Q4 and Utilitarianism in Q5). The goal was to test the
+effect of diverse ethical prioritization frames in LLMs and to examine the sensitivity (consistency, decision flipping and convergence) of their ethical reasoning. Finally, in all scenarios the last question (Q6) is a repetition of the initial query. The goal here was to examine the consistency of the ethical models of each LLM within a single chat, i.e., whether LLMs have strong ethical beliefs based on their ethical training. For all scenarios, all questions were manually repeated in four runs using different user accounts. Instead of automatically running a large number of prompt repetitions, we deliberately chose a smaller number of manual repetitions from different user accounts. The goal here was to examine the convergence or divergence on the decisions chosen by the LLMs, after removing possible biases related with the prompt history of a single user. 
+
+## Ethical reasoning for the definition of ethical prioritizations
+Bearing in mind the debates on so-called “Principlism”, introduced by Beauchamp and Childress (1979), we focus on the four main principles of Bioethics for methodological and practical purposes. Without fully endorsing the view that these principles are derived from (or correspond to) contradictory ethical theories, we acknowledge that, when implemented, they often lead to conflicts. Therefore, we take the principles of beneficence and non-maleficence as representing consequentialist ethical theories -more concretely, as corresponding to classic utilitarianism- whereas the principles of autonomy and justice are conceived as representing deontological views due to their adherence to rules. Under these considerations, we examine the “eclecticism hypothesis” of the LLMs' reasoning and behavior (reflecting their initial ethical training) by experimenting on whether, and under which conditions, a consistent and coherent resolution of these conflicts might emerge.
+In this purposefully simplified way, we employ the most common conflicts between “utilitarian” and “deontological” principles (e.g., autonomy vs. beneficence, autonomy vs. non-maleficence etc.) in the Q2 scenarios, to highlight how LLMs perceive ethical dilemmas and inconsistencies and how they arbitrate such conflicts. We anticipate that the responses to these provocative scenarios, through the prioritization of utilitarian- or deontological-oriented argumentation, will reveal the limits of the LLMs' ethical reasoning and whether these models can move beyond ethical dichotomies. After assessing their “ethical sensitivity” in marginal circumstances, we proceed to further verify it by pairing and comparing more compatible and interrelated principles in the Q3 scenarios. By employing these more nuanced and moderate scenarios, we examine the ability of LLMs to prioritize -or identify inconsistencies between- fundamental and procedural ethical principles stemming from the same ethical framework. 
+
+## Scenario 1: ....
+
+
+## Scenario 2: ...
+
+
+## Scenario 3: ...
+
+
+## Scenario 4: ...
+
+
+## Scenario 5: ...
+
+
+
+
