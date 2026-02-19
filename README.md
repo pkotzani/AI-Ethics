@@ -29,7 +29,7 @@ Finally, the fifth dilemma combines two sectors already examined in isolation in
 
 ## Experimental setup
 
-<img width="698" height="224" alt="image" src="https://github.com/user-attachments/assets/97a9fccf-278f-40be-9ccf-0bde084e8ea0" />
+<img width="698" height="224" alt="image" src="[[https://github.com/user-attachments/assets/97a9fccf-278f-40be-9ccf-0bde084e8ea0](https://github.com/pkotzani/AI-Ethics/blob/main/setup.pdf)]" />
 
 
 
