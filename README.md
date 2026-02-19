@@ -28,7 +28,7 @@ The fourth dilemma is from the health sector and examines the ethical concerns w
 Finally, the fifth dilemma combines two sectors already examined in isolation in the previous scenarios:  autonomous vehicles and the health sector. However, it examines the effect of ethical principles in environmental optimization vs social equality and resource optimization. 
 
 ## Experimental setup
-<img width="698" height="224" alt="image" src="https://github.com/user-attachments/assets/475d01b7-80b4-4410-a82f-1638cdef8647" />
+<img width="698" height="224" alt="image" src="https://github.com/pkotzani/AI-Ethics/blob/main/setup.pdf" />
 
 https://github.com/pkotzani/AI-Ethics/blob/main/setup.pdf
 
